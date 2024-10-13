@@ -11,3 +11,4 @@
 ## Extensões
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [JS Auto Backticks](https://marketplace.visualstudio.com/items?itemName=chamboug.js-auto-backticks)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
